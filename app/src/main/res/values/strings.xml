@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyWallet</string>
+    <string name="app_name_splash">КошелОК</string>
+    <string name="app_icon_image">app_icon_image</string>
+    <string name="onboard_image">onboard_image</string>
+    <string name="welcome_msg">Добро пожаловать в КошелОК</string>
+    <string name="splash_app_desc">Тут вы сможете контролировать свои доходы и расходы</string>
+    <string name="signin_google">Войти с помощью Google</string>
 </resources>

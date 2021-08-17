@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="GoogleSignInButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/google_dark</item>
+        <item name="android:textColor">@color/plain_white</item>
+    </style>
+
+</resources>
